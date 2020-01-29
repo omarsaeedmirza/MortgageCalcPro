@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mortgage Calculator Pro</string>
+    <string name="analyzeButton">A N A L Y Z E</string>
+    <string name="principle">Cash Price</string>
+    <string name="amortization">Amortization</string>
+    <string name="interest">Interest (%)</string>
+</resources>
